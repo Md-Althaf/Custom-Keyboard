@@ -1,15 +1,24 @@
+
 # Custom Keyboard BOM
 
 | Item | Description | Qty | Unit Price (₹) | Total (₹) | Link |
-|------|-------------|----|---------------|----------|------|
-| Blank DSA 1U Keycaps (Pack of 10) | 1U Keycaps | 6 Packs | 100 | 600 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/">Product</a> |
-| Blank DSA 6.25U Spacebar | Spacebar Keycap | 1 | 150 | 150 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/">Product</a> |
-| Blank DSA Modifier Keycaps (2U) | Modifier Keycaps | 2 | 100 | 200 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/">Product</a> |
-| Blank DSA Modifier Keycaps (1.5U) | Modifier Keycaps | 2 | 60 | 120 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/">Product</a> |
-| Blank DSA Modifier Keycaps (1.25U) | Modifier Keycaps | 2 | 40 | 80 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/">Product</a> |
-| Gateron G Pro 3.0 Switches | Pack of 10 | 8 Packs | 275 | 2,200 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/">Product</a> |
-| Kailh Hot-Swap Sockets | Pack of 10 | 8 Packs (80 Sockets) | 80 | 640 | <a href="https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/">Product</a> |
-| ESP32-C3 Mini Development Board | Unsoldered | 1 | 250 | 250 | <a href="https://robocraze.com/products/esp32-c3-mini-development-board-unsoldered">Product</a> |
-| PCB Manufacturing | LionCircuits (2-Layer, 50 × 40 mm, Qty 5) | 1 | 5,070 | 5,070 | <a href="https://www.lioncircuits.com/quote?layers=2&units=5&dimensionX=50&dimensionY=40">Quote</a> |
+|------|-------------|----:|---------------:|----------:|------|
+| Blank DSA 1U Keycaps (Pack of 10) | 1U Keycaps | 6 Packs | 100 | 600 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) |
+| Blank DSA 6.25U Spacebar | Spacebar Keycap | 1 | 150 | 150 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/) |
+| Blank DSA Modifier Keycaps (2U) | Modifier Keycaps | 2 | 100 | 200 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/) |
+| Blank DSA Modifier Keycaps (1.5U) | Modifier Keycaps | 2 | 60 | 120 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/) |
+| Blank DSA Modifier Keycaps (1.25U) | Modifier Keycaps | 2 | 40 | 80 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-modifiers/) |
+| Gateron G Pro 3.0 Switches | Pack of 10 | 8 Packs | 275 | 2,200 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
+| Kailh Hot-Swap Sockets | Pack of 10 | 8 Packs (80 Sockets) | 80 | 640 | [Product](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
+| ESP32-C3 Mini Development Board | Unsoldered | 1 | 250 | 250 | [Product](https://robocraze.com/products/esp32-c3-mini-development-board-unsoldered) |
+| PCB Manufacturing | LionCircuits (2-Layer, 50 × 40 mm, Qty 5) | 1 | 5,070 | 5,070 | [Quote](https://www.lioncircuits.com/quote?layers=2&units=5&dimensionX=50&dimensionY=40) |
 | 3D Printed Case | Custom Case | 1 | 500 | 500 | — |
 
+## Cost Summary
+
+| Category | Cost (₹) |
+|----------|---------:|
+| Keyboard Components | **4,240** |
+| PCB Manufacturing | **5,070** |
+| 3D Printed Case | **500** |
+| **Grand Total** | **₹9,810** |
